@@ -30,7 +30,7 @@
 - 本项目为个人制作，每次运行均为Fork仓库[Womsxd/AutoMihoyoBBS](https://github.com/Womsxd/AutoMihoyoBBS)并生成配置文件
 - 上游仓库作者[不建议使用Actions运行](https://github.com/Womsxd/AutoMihoyoBBS#%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8-github-actions-%E8%BF%90%E8%A1%8C)，遇到问题请勿向上游仓库反馈！！！
 - 本项目仅在workflow内使用python生成明文配置文件，如因为个人操作不当或其他原因导致Cookie泄露，本项目不承担任何责任！！！
-- 加密后的配置文件保存在公开仓库中，如果对账号安全性担忧，请将仓库设置成Private！
+- 加密后的配置文件保存在公开仓库中，如果您对仓库的安全性抱有疑问，请您将本仓库[导入](https://docs.github.com/cn/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer)为私人仓库（Private）进行使用
 - 验证码问题非本项目bug，请自行寻找解决方法
 
 ## 关于许可证
